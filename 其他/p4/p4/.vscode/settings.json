@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "translate_utils.h": "c",
+        "ctype.h": "c",
+        "string.h": "c",
+        "tables.h": "c",
+        "linker_utils.h": "c"
+    }
+}
