@@ -1,0 +1,133 @@
+﻿  cachelab.c
+D:\TASK\coding\co\cache\cachelab\cachelab.h(11,36): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(11,39): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(11,40): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(11,46): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(11,49): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(11,50): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,37): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,38): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,40): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,41): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,41): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,50): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,51): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,53): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,54): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(28,54): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,39): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,40): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,42): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,43): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,43): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,52): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,53): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,55): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,56): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(31,56): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,35): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,36): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,38): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,39): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,39): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,45): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,46): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,48): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,49): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(35,49): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,43): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,44): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,46): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,47): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,47): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,56): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,57): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,59): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,60): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.h(37,60): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(20,23): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,37): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,38): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,40): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,41): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,41): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,50): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,51): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,53): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,54): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(29,54): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(32,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\TASK\coding\co\cache\cachelab\cachelab.c(42,37): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(42,38): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(42,40): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(42,41): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(42,41): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(44,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,39): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,40): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,42): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,43): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,43): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,52): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,53): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,55): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,56): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(56,56): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,60): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,61): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,63): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,64): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,64): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,71): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,72): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,74): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,75): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\cachelab\cachelab.c(73,75): error C2087: “abstract declarator”: 缺少下标
+  csim.c
+D:\TASK\coding\co\cache\01\cachelab.h(11,37): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(11,40): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(11,41): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(11,48): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(11,51): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(11,52): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(28,37): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(28,38): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(28,40): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(28,41): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(28,41): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(28,50): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(28,51): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(28,53): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(28,54): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(28,54): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(31,39): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(31,40): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(31,42): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(31,43): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(31,43): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(31,52): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(31,53): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(31,55): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(31,56): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(31,56): error C2087: “B”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(35,34): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(35,35): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(35,37): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(35,38): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(35,38): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(35,45): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(35,46): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(35,48): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(35,49): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(35,49): error C2087: “abstract declarator”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(37,43): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(37,44): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(37,46): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(37,47): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(37,47): error C2087: “A”: 缺少下标
+D:\TASK\coding\co\cache\01\cachelab.h(37,56): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(37,57): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(37,59): error C2057: 应输入常量表达式
+D:\TASK\coding\co\cache\01\cachelab.h(37,60): error C2466: 不能分配常量大小为 0 的数组
+D:\TASK\coding\co\cache\01\cachelab.h(37,60): error C2087: “B”: 缺少下标
+  正在生成代码...
